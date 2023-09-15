@@ -1,7 +1,8 @@
 # Readme Generator  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-Uploading index.js - bootcamp [WSL_ Ubuntu] - Visual Studio Code 2023-09-14 23-52-18.mp4…
+https://github.com/KrystianKowalak/readme-generator/assets/63071475/c904cb46-c52e-422e-b7c4-362c5f5e2806
+
 
 
   ## Description
